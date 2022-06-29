@@ -4,7 +4,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
-    <title>netflix india</title>
+    <title>Netflix india</title>
+    <link rel="icon" type="image/x-icon" href="assets/brand/nficon2016.ico">
     <style>
         body {
             background-image: url('assets/brand/bgimage.jpg');
