@@ -23,12 +23,16 @@
                         <input type="checkbox" class="form-check-input" id="" RememberMe>
                         <label for="RememberMe">RememberMe</label>
                     </div>
-                    <div class="col mt-3"><a href="">Need Help?</a></div>
+                    <div class="col mt-3 "><a class="hover-gray text-muted" href="">Need Help?</a></div>
                 </div>
             </form>
-            <div class="textmuded pt-5 ms-2">New to Netflix? <span class="text-white">Sign up now.</span></div>
-            <div class="text-muted ms-2 mt-2" style="font-size:13px ;">This page is prodected by Google reCAPTCHA to
-                ensure you're not a bot <a href="">Learn more</a>
+            <div class="pb-5">
+                <div class="textmuded pt-5  ms-2">New to Netflix? <span class="text-white">Sign up now.</span></div>
+                <div class="text-muted ms-2 mt-2 pb-5" style="font-size:13px ;">This page is prodected by Google
+                    reCAPTCHA
+                    to
+                    ensure you're not a bot <a href="">Learn more</a>
+                </div>
             </div>
         </div>
     </div>
